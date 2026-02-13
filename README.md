@@ -77,4 +77,4 @@ Effective security requires visibility. Even in "Shadow AI" deployments, the con
 
 ## ⚠️ Disclaimer
 **EDUCATIONAL PURPOSE ONLY.**
-This repository and its contents are strictly for educational and research purposes related to Cybersecurity and Ethical Hacking. The malware examples and attack vectors demonstrated here are conducted in a controlled, isolated environment. The author (Roy Castro) does not condone the use of this information for illegal activities.
+This repository and its contents are strictly for educational and research purposes related to Cybersecurity and Ethical Hacking. The malware examples and attack vectors demonstrated here are conducted in a controlled, isolated environment. The author does not condone the use of this information for illegal activities.
