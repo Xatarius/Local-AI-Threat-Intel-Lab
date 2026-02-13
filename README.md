@@ -11,7 +11,8 @@ This project demonstrates the deployment of an **isolated, air-gapped Artificial
 By leveraging Docker containers and "uncensored" Large Language Models (LLMs), this lab simulates how threat actors utilize Generative AI for malware development and social engineering, allowing for the development of better defensive strategies (Blue Teaming) and forensic analysis.
 
 **Analyst:** Roy Castro
-**Objective:** Certified Ethical Hacker (CEH) practical application & Infrastructure Hardening.
+
+**Objective:** Evaluating Adversarial AI TTPs (Tactics, Techniques, and Procedures) and enhancing local infrastructure resilience through containerized security labs.
 
 ---
 
